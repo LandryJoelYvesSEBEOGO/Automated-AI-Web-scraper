@@ -1,7 +1,7 @@
 from groq import Groq
 
 # API key for the Groq client
-client = Groq(api_key='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')
+client = Groq(api_key='')
 
 # Prompt template for the task
 template = (
